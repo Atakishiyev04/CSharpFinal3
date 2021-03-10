@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpFinal3
+namespace CSharpFinal3.Classes
 {
-    class Program
+    class Product
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }

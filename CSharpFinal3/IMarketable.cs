@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpFinal3
 {
-    class Program
+    interface IMarketable
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
