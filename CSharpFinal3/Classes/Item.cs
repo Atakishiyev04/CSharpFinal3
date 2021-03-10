@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpFinal3.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpFinal3.Classes
 {
-    class Item
+    class Item : IMarketableItem
     {
         public string Product { get; set; }
 
