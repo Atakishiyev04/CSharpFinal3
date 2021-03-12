@@ -1,0 +1,7 @@
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\bin\Debug\CSharpFinal3.exe.config
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\bin\Debug\CSharpFinal3.exe
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\bin\Debug\CSharpFinal3.pdb
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\obj\Debug\CSharpFinal3.csprojAssemblyReference.cache
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\obj\Debug\CSharpFinal3.csproj.CoreCompileInputs.cache
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\obj\Debug\CSharpFinal3.exe
+C:\Users\Gamenote\Desktop\CSharpFinal3\CSharpFinal3\CSharpFinal3\obj\Debug\CSharpFinal3.pdb

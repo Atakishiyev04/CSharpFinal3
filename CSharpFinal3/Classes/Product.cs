@@ -9,6 +9,7 @@ namespace CSharpFinal3.Classes
 {
     class Product : IMarketableProduct
     {
+        List<Product> products = new List<Product>();
         public string Name { get; set; }
 
         public double Price { get; set; }
@@ -24,6 +25,13 @@ namespace CSharpFinal3.Classes
             Id = _id;
         }
 
+        public Product(string name,double price,int number)
+        {
+            Name = name;
+            Price = price;
+            Number = number;
+        }
+
         public void Products()
         {
             throw new NotImplementedException();
@@ -36,7 +44,7 @@ namespace CSharpFinal3.Classes
 
         public void AddProduct()
         {
-            throw new NotImplementedException();
+            
         }
 
         public void ChangeProductInfo()
